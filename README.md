@@ -29,10 +29,10 @@ main 메서드는 자바의 시작점임. main메서드 없이는 자바 에플�
     public class Hello2{}
     public class Hello3{}  //소스파일의 이름이 public class 의 이름과 맞지x 소스파일 이름 변경 필요
     
-    hello.java
+    hello2.java
     ----------
     public class Hello2{}
-    public class Hello3{}  //소스파일 이름과 public class이름 일치x .대소문자를 구분함으로 대문자로 변경.
+     class Hello3{}  //소스파일 이름과 public class이름 일치x .대소문자를 구분함으로 대문자로 변경.
     
     
 ## chapter02 -변수
