@@ -68,6 +68,46 @@ int a;
 int a,b;  
    int x=0, y=0;  
 ```  
-는 같다. 타입이 같을시 콤마로 한줄에 선언 가능.
+는 같다. 타입이 같을시 콤마로 한줄에 선언 가능.  
+  
+  
+  
+```
+class VariExl{
+    public static void main(String[] args) {
+        int year = 0;
+        int age = 14;
+        
+        sysout(year);
+        sysout(age);
+        
+        year = age + 2000;
+        age = age +1; 
+        
+        sysout(year);
+        sysout(age);
+    }
+}
+```  
+두 변수 교환하기  
 
+```
+class VariEx2{
+    public static void main(String[] args) {
+        int x = 10, y = 20;
+        int tmp=0;
+        
+        sysout("x:"+x+"y"+y);
+        
+        tmp = x; 
+        x = y; 
+        y = tmp;
+        
+        sysout("x:"+x+"y"+y);
+    }
+}
+```  
+
+
+변수의 명명 규칙  
 
