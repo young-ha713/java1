@@ -145,7 +145,7 @@ class VariEx2{
  
  2)참조변수 초기화  
  ```Date today = new Date();  //name객체를 생성해서, 그 주소를 today에 저장 ```  
- <img width="253" alt="20220328_204914" src="https://user-images.githubusercontent.com/80766275/160392417-b34e6c8c-5307-44a4-9c49-c595477a3534.png">  
+ <img width="500" alt="20220328_204914" src="https://user-images.githubusercontent.com/80766275/160392417-b34e6c8c-5307-44a4-9c49-c595477a3534.png">  
  
 
 
