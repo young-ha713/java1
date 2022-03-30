@@ -167,6 +167,46 @@ class VariEx2{
 1)선언&초기화
 ```타입 + 이름 ;  
    final int MAX_SPEED = 10;  // 상수는 모두 대문자 사용하고 여러 단어로 이루어졌을때는 _ 사용  
-```
+```  
+  
+**변수: 하나의 값만을 저장할 수 있는 데이터 상의 공간  
+**상수: 값을 한번만 저장 할 수 있는 공간 변경 불가  
+**리터럴: 그 자체로의 값을 의미함  
+  
+``` int(자료형) year(변수) = 2022(리터럴);    
+    final int MAX_SPEED(상수) = 10(리터럴);  
+```  
+  
+***상수를 사용하는 이유    
+  
+``` final int WIDTH = 20;   
+    final int HEIGHT = 10;  
+  
+    int triangleArea = (WIDTH * HEIGHT) / 2;  
+    int rectangleArea = WIDTH * HEIGHT ;  
+```  
+
+상수값으로 설정해놓으면 여러곳 수정 필요 x 상수 초기화만 하면 됨 *상수는 리터럴에 '의미있는 이름'을 붙여 코드 이해와 수정 쉽도록 함
+
+  
+스캐너 (Scanner) 클래스: 화면에서 입력받는 법.  
+  
+1.유틸 임포트하기  
+```import java.utill.*;  // 스캐너 클래스 사용받기위해 다운?하는 늑김  
+  
+2.Scanner 클래스 객체 생성 
+```Scanner scanner = new Scanner(System.in);  
+  
+3.nextLine() 메소드 호출  
+```String input = scanner.nextLine();  // 입력대기 상태에 있다가 입력 마치고 앤터 누르면 입력 내용이 문자열(String)으로 저장  
+   int num = Integer.ParseInt(input);  //입력받은 내용을 int타입으로 변환  
+```  
+***Integer.Parser(); - 입력받은것을 정수로 전환  / scanner.nextInt(); 정수로 입력받음  
+  
+  
+### 형변환 (Casting)  
+  
+***변수 또는 상수의 타입을 다른 타입으로 변환하는것 why?다른 타입끼리는 연산x so 연산전에 타입을 일치시킴  
+
 
 
