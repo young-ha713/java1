@@ -137,6 +137,15 @@ class VariEx2{
 1. 기본형 : **실제 값 저장** 논리형(boolean),문자형(char/하나의 문자), 정수형(byte,short,int,long), 실수형(float,double) 총 8개  
   
   
+1)기본형의 종류와 크기  
+
+정수형: byte (1byte), short(2byte), int(4byte), long(8byte)  
+문자형: char (2byte)  
+논리형: boolean(1byte)  
+실수형: float(4byte), double(8byte)  
+
+
+  
   
   
 ##### 2. 참조형 : **출력시 무조건 주소값 반환** 기본형 제외한 나머지. 클래스 자료형 
@@ -149,5 +158,15 @@ class VariEx2{
  결과는 주소값 나옴.
  
 
+### 2.2 상수와 리터럴  
+  
+  
+상수 : 값을 저장할 수 있는 공간.  
+**변수와 차이점은 한번 값을 저장하면 변경 불가**  
+  
+1)선언&초기화
+```타입 + 이름 ;  
+   final int MAX_SPEED = 10;  // 상수는 모두 대문자 사용하고 여러 단어로 이루어졌을때는 _ 사용  
+```
 
 
