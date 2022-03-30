@@ -177,7 +177,7 @@ class VariEx2{
     final int MAX_SPEED(상수) = 10(리터럴);  
 ```  
   
-***상수를 사용하는 이유    
+***상수를 사용하는 이유***    
   
 ``` final int WIDTH = 20;   
     final int HEIGHT = 10;  
@@ -204,7 +204,7 @@ class VariEx2{
 ***Integer.Parser(); - 입력받은것을 정수로 전환  / scanner.nextInt(); 정수로 입력받음***  
   
   
-### 형변환 (Casting)  
+#### 형변환 (Casting)  
   
 ***변수 또는 상수의 타입을 다른 타입으로 변환하는것 why?다른 타입끼리는 연산x so 연산전에 타입을 일치시킴***  
 
