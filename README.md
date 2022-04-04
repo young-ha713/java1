@@ -262,8 +262,16 @@ Integer.Parser(); - 입력받은것을 정수로 전환  / scanner.nextInt(); �
     *전위형은 변수 값 증가시키고 변수 읽어옴, 후위형은 변수 읽어오고 증가시킴*  
     ``` 전위형 i가 5 일때  
         j = ++j;      j = j++; // 출력시 결과가 다르다.
- ```
-3) 
+ ```  
+3) 나머지연산자 : 왼쪽 피연산자를 오른쪽으로 나눈 나머지값. 짝수, 홀수, 배수 검사에 주로 사용.  
+4) 비교 연산자  
+<img width="800" alt="20220404_201210" src="https://user-images.githubusercontent.com/80766275/161532209-2c920594-eee8-4817-85e0-7014f61ef863.png">  
+왼쪽을 기준으로 함. == 같으면 false != 면 false  
+5) 논리 연산자  
+<img width="464" alt="20220404_201604" src="https://user-images.githubusercontent.com/80766275/161532854-71c6a1c1-f4f4-490a-a0c2-e5da88c4cdbf.png">
+
+
+
   
 
 
