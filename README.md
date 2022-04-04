@@ -255,9 +255,9 @@ Integer.Parser(); - 입력받은것을 정수로 전환  / scanner.nextInt(); �
   ```  
   ##### 1.3 연산자 종류  
   
-<img width="449" alt="20220404_194915" src="https://user-images.githubusercontent.com/80766275/161529026-f8cc7a70-0d0c-49d3-93ff-8f1dfb45735c.png">  
+<img width="800" alt="20220404_194915" src="https://user-images.githubusercontent.com/80766275/161529026-f8cc7a70-0d0c-49d3-93ff-8f1dfb45735c.png">  
   
-<img width="211" alt="20220404_194945" src="https://user-images.githubusercontent.com/80766275/161529102-1670bb7b-3fc6-4c0b-9ac1-e6cf0103fb11.png">
+<img width="800" alt="20220404_194945" src="https://user-images.githubusercontent.com/80766275/161529102-1670bb7b-3fc6-4c0b-9ac1-e6cf0103fb11.png">
 
 
 
