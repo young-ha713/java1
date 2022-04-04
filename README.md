@@ -26,8 +26,8 @@ main 메서드는 자바의 시작점임. main메서드 없이는 자바 에플�
 
     Hello3.java
     -----------
-    class Hello2{}
-    public class Hello3{}  //소스파일의 이름이 public class 의 이름과 맞지x 소스파일 이름 변경 필요
+    public class Hello2{}
+    class Hello3{}  //소스파일의 이름이 public class 의 이름과 맞지x 소스파일 이름 변경 필요
     
     hello2.java
     ----------
