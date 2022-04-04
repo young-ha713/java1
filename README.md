@@ -269,7 +269,7 @@ j = ++j;      j = j++; // 출력시 결과가 다르다.
 <img width="800" alt="20220404_201210" src="https://user-images.githubusercontent.com/80766275/161532209-2c920594-eee8-4817-85e0-7014f61ef863.png">  
 왼쪽을 기준으로 함. == 같으면 false != 면 false  
 5) 논리 연산자  
-<img width="464" alt="20220404_201604" src="https://user-images.githubusercontent.com/80766275/161532854-71c6a1c1-f4f4-490a-a0c2-e5da88c4cdbf.png">
+<img width="800" alt="20220404_201604" src="https://user-images.githubusercontent.com/80766275/161532854-71c6a1c1-f4f4-490a-a0c2-e5da88c4cdbf.png">
 
  
 
