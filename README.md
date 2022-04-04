@@ -251,7 +251,7 @@ Integer.Parser(); - 입력받은것을 정수로 전환  / scanner.nextInt(); �
 ```4 * x + 3; // x의 값이 5로 초기화 되었을 때 결과값은 반환되나 사라진다.  
 so 대입 연산자를 사용해서 값을 담아주어야 함.  
 y = 4 * x + 3;  //식의 결과가 변수 y에 저장됨.  
-  ```  
+```  
   ##### 1.3 연산자 종류  
   
 <img width="800" alt="20220404_195556" src="https://user-images.githubusercontent.com/80766275/161529805-b2be249e-41df-4ef1-ba0d-4b0b827526ca.png">
